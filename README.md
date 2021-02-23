@@ -1,5 +1,7 @@
 # photon_test
-Photon Test site 
+Photon Test site
+
+Test wordpress theme from scratch for photon web-site
 
 To push your change into this repo from your local environment, Follow steps below: 
 
