@@ -11,6 +11,6 @@ To push your change into this repo from your local environment, Follow steps bel
 
 2. git add .  => '.' because you should select all files you made change before
 
-3. git commit -m '<Your messsage>'
+3. git commit -m 'Your messsage'
 
 4. git push
