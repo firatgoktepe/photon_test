@@ -1,5 +1,5 @@
 # photon_test
-Photon Test site
+Photon Test web site
 
 Test wordpress theme from scratch for photon web-site
 
