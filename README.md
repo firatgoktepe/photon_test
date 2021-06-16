@@ -1,7 +1,7 @@
 # photon_test
 Photon Test site
 
-Test wordpress theme from scratch for Ahmet's photon web-site
+Test wordpress theme from scratch for photon web-site
 
 Simple guide for git process to push youit changes to that repo in github
 
